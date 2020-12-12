@@ -23,6 +23,7 @@ luizedc1@gmail.com
 
 <hr>
 <h3> - 🌱 I’m currently learning Vue.js...
+<hr>
 <br>
 
 
