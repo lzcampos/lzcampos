@@ -6,7 +6,8 @@
 
 ## Connect with me
 
-![linkedin](https://user-images.githubusercontent.com/56274028/101969958-39ac5e00-3c06-11eb-8719-00e6cc513cb6.png)
+![download](https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png)
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lzcampos)](https://github.com/anuraghazra/github-readme-stats)
