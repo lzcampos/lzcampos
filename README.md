@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/luiz-damasceno-campos/"><img src="https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png" alt="Linkedin" width="100"/></a>
 <br>
-![images](https://user-images.githubusercontent.com/56274028/101970212-dcb1a780-3c07-11eb-84ea-742a49f5213c.png) - luizedc1@gmail.com
+<img src="https://user-images.githubusercontent.com/56274028/101970212-dcb1a780-3c07-11eb-84ea-742a49f5213c.png" width="100"> - luizedc1@gmail.com
 
 
 
