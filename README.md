@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Luiz 👋
+
+## My activities
+* Full Stack intern on [Stars Poker Club](https://www.starspoker.com.br/index.html)
+* Software Engineering on [PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)
+
+## Connect with me
+
+![linkedin](https://user-images.githubusercontent.com/56274028/101969958-39ac5e00-3c06-11eb-8719-00e6cc513cb6.png)
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lzcampos)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lzcampos/lzcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
