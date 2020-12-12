@@ -3,13 +3,15 @@
 ### My activities
 * Full Stack intern on [Stars Poker Club](https://www.starspoker.com.br/index.html)
 * Software Engineering on [PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)
-
+<hr>
+<br>
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/luiz-damasceno-campos/"><img src="https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png" alt="Linkedin" width="60"/></a>
 <br>
 luizedc1@gmail.com
-
+<hr>
+<br>
 ### Languages and tools
 
 
@@ -17,7 +19,8 @@ luizedc1@gmail.com
 
 
 
-
+<hr>
+<br>
 #### - 🌱 I’m currently learning Vue.js...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lzcampos)](https://github.com/anuraghazra/github-readme-stats)
