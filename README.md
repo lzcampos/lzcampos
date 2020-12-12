@@ -12,10 +12,11 @@ luizedc1@gmail.com
 
 ## Languages and tools
 
-<img src="https://user-images.githubusercontent.com/56274028/101970313-79744500-3c08-11eb-90e5-8c09fec2d6bb.png" alt="Javascript" width="50">
-<img src="https://user-images.githubusercontent.com/56274028/101970355-9b6dc780-3c08-11eb-91c1-14021e7d0f27.png" alt="Vue.js" width="50">
-<img src="https://user-images.githubusercontent.com/56274028/101970393-d839be80-3c08-11eb-95c4-c9beef794d3d.png" alt="Sass" width="50">
-<img src="https://user-images.githubusercontent.com/56274028/101970423-0a4b2080-3c09-11eb-86b4-52923f48e2b9.png" alt="Go" width="50">
+
+<img src="https://user-images.githubusercontent.com/56274028/101970313-79744500-3c08-11eb-90e5-8c09fec2d6bb.png" alt="Javascript" width="50"> <img src="https://user-images.githubusercontent.com/56274028/101970355-9b6dc780-3c08-11eb-91c1-14021e7d0f27.png" alt="Vue.js" width="50"> <img src="https://user-images.githubusercontent.com/56274028/101970393-d839be80-3c08-11eb-95c4-c9beef794d3d.png" alt="Sass" width="50"> <img src="https://user-images.githubusercontent.com/56274028/101970423-0a4b2080-3c09-11eb-86b4-52923f48e2b9.png" alt="Go" width="50">
+
+
+
 
 ### - 🌱 I’m currently learning Vue.js...
 
