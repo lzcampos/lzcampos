@@ -6,7 +6,7 @@
 
 ## Connect with me
 
-![download](https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png)
+![download](https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png =100x20)
 
 
 
