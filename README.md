@@ -8,10 +8,16 @@
 
 <a href="https://www.linkedin.com/in/luiz-damasceno-campos/"><img src="https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png" alt="Linkedin" width="60"/></a>
 <br>
-<img src="https://user-images.githubusercontent.com/56274028/101970212-dcb1a780-3c07-11eb-84ea-742a49f5213c.png" width="60"> - luizedc1@gmail.com
+luizedc1@gmail.com
 
+## Languages and tools
 
+<img src="https://user-images.githubusercontent.com/56274028/101970313-79744500-3c08-11eb-90e5-8c09fec2d6bb.png" alt="Javascript" width="50">
+<img src="https://user-images.githubusercontent.com/56274028/101970355-9b6dc780-3c08-11eb-91c1-14021e7d0f27.png" alt="Vue.js" width="50">
+<img src="https://user-images.githubusercontent.com/56274028/101970393-d839be80-3c08-11eb-95c4-c9beef794d3d.png" alt="Sass" width="50">
+<img src="https://user-images.githubusercontent.com/56274028/101970423-0a4b2080-3c09-11eb-86b4-52923f48e2b9.png" alt="Go" width="50">
 
+### - 🌱 I’m currently learning Vue.js...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lzcampos)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -20,7 +26,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
