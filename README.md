@@ -14,7 +14,7 @@
   </p> 
 </a>
 <br>
-<h3>luizedc1@gmail.com</h3>
+<h4>luizedc1@gmail.com</h4>
 <hr>
 <h3> Languages and tools </h3>
 <br>
