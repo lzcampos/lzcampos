@@ -4,7 +4,7 @@
 * Full Stack intern on [Stars Poker Club](https://www.starspoker.com.br/index.html)
 * Software Engineering on [PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)
 <hr>
-<h3> Connect with me </h3>
+<h3> Connect with me! </h3>
 <br>
 
 
