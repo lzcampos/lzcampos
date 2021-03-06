@@ -16,7 +16,7 @@
 <p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcampos)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lzcampos)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lzcampos)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <hr>
 <h3> - 🌱 I’m currently mastering Javascript and Vue.js...
