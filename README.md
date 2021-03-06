@@ -5,8 +5,6 @@
 * <strong>Software Engineering</strong> on <strong>[PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
 * <strong>Computer Network Technician</strong> by <strong>[CEFET_MG](https://www.cefetmg.br/)</strong> 🎓
 <hr>
-
-<br>
 <h3> Skills </h3>
 <br>
 <p>
