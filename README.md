@@ -16,14 +16,10 @@
 <h3> - 🌱 I’m currently mastering Javascript and Vue.js...
 <hr>
 
-<h3> Connect with me! </h3>
-<br>
+## Connect with me 
 
-<a href="https://www.linkedin.com/in/luiz-damasceno-campos/">
-  <p>
-    <img src="https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png" alt="Linkedin" width="60"/>
-  </p> 
-</a>
+[<img src="https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png" alt='linkedin' width="60">](https://www.linkedin.com/in/luiz-damasceno-campos/)  
+
 <!--
 **lzcampos/lzcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
