@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcampos)
 
 <hr>
-<h3> - 🌱 I’m currently mastering Javascript and Vue.js...
+<h3> - 🌱 I’m currently mastering Javascript, Vue.js an Golang...
 <hr>
 
 ## Connect with me 
