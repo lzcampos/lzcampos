@@ -6,19 +6,19 @@
 * <strong>Computer Network Technician</strong> by <strong>[CEFET_MG](https://www.cefetmg.br/)</strong> 🎓
 
 ## Skills
-<img src="https://user-images.githubusercontent.com/56274028/101970313-79744500-3c08-11eb-90e5-8c09fec2d6bb.png" alt="Javascript" width="50"><img src="https://user-images.githubusercontent.com/56274028/101970355-9b6dc780-3c08-11eb-91c1-14021e7d0f27.png" alt="Vue.js" width="50"><img src="https://user-images.githubusercontent.com/56274028/101970393-d839be80-3c08-11eb-95c4-c9beef794d3d.png" alt="Sass" width="50"><img src="https://user-images.githubusercontent.com/56274028/101970423-0a4b2080-3c09-11eb-86b4-52923f48e2b9.png" alt="Go" width="50">
- 
-<hr>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" width="auto"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" width="auto"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" width="auto"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" width="auto"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="auto"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="auto">
+
+## Connect with me 
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin' width="auto">](https://www.linkedin.com/in/luiz-damasceno-campos/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='email' width="auto">](mailto:luizedc1@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcampos)
 
 <hr>
-<h3> - 🌱 I’m currently mastering Javascript, Vue.js and Golang...
+<h3> - 🌱 I’m currently mastering Javascript and Vue.js...
 <hr>
-
-## Connect with me 
-
-[<img src="https://user-images.githubusercontent.com/56274028/101969980-619bc180-3c06-11eb-8040-4711be518d3f.png" alt='linkedin' width="60">](https://www.linkedin.com/in/luiz-damasceno-campos/)  
 
 <!--
 **lzcampos/lzcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
