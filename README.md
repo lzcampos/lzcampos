@@ -1,7 +1,7 @@
 # Hi, I'm Luiz 👋
 
 ## My activities
-* <strong>Software Engineer</strong> on <strong>[Take Blip](https://www.take.net/)</strong>💙
+* <strong>Software Engineer</strong> at <strong>[Take Blip](https://www.take.net/)</strong> 💙
 * <strong>Software Engineering</strong> on <strong>[PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
 * <strong>Computer Network Technician</strong> by <strong>[CEFET_MG](https://www.cefetmg.br/)</strong> 🎓
 
