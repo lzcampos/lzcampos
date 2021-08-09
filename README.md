@@ -1,7 +1,7 @@
 # Hi, I'm Luiz 👋
 
 ## My activities
-* <strong>Frontend Developer</strong> on <strong>[Start Consig](https://startconsig.com.br/)</strong> 💲
+* <strong>Software Engineer</strong> on <strong>[Take Blip](https://www.take.net/)</strong> 💲
 * <strong>Software Engineering</strong> on <strong>[PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
 * <strong>Computer Network Technician</strong> by <strong>[CEFET_MG](https://www.cefetmg.br/)</strong> 🎓
 
@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcampos)
 
 <hr>
-<h3> - 🌱 I’m currently mastering Javascript and Vue.js (Quasar framework)...
+<h3> - 🌱 I’m currently mastering Javascript...
 <hr>
 
 <!--
