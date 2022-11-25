@@ -1,7 +1,8 @@
 # Hi, I'm Luiz 👋
 
 ## My activities
-* <strong>Software Engineering</strong> on <strong>[PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)</strong> 📚
+
+* <strong>Software Engineer</strong> at <strong>[Nubank](https://nubank.com.br/)</strong> 🎓
 * <strong>Computer Network Technician</strong> by <strong>[CEFET_MG](https://www.cefetmg.br/)</strong> 🎓
 
 ## Skills
@@ -15,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcampos)
 
 <hr>
-<h3> - 🌱 I’m currently mastering Javascript...
+<h3> - 🌱 I’m currently mastering Clojure...
 <hr>
 
 <!--
