@@ -2,7 +2,7 @@
 
 ## My activities
 
-* <strong>Software Engineer</strong> at <strong>[Nubank](https://nubank.com.br/)</strong> 🎓
+* <strong>Software Engineer</strong> at <strong>[Nubank](https://nubank.com.br/)</strong> 💜 
 * <strong>Computer Network Technician</strong> by <strong>[CEFET_MG](https://www.cefetmg.br/)</strong> 🎓
 
 ## Skills
