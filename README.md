@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcampos)
 
 <hr>
-<h3> - 🌱 I’m currently mastering Clojure...
+<h3> - 🌱 I’m currently focused on learning about products...
 <hr>
 
 <!--
