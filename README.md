@@ -4,7 +4,7 @@
 Software Engineer with experience leading technical teams and developing web applications. Currently working as a Technical Lead at [Skeps](https://skeps.com.br/), focusing on delivering high-quality software solutions.
 
 ## Experience
-- **Technical Lead** at **[Skeps](https://skeps.com.br/)** - Leading development teams and architecting software solutions
+- **Senior Software Engineer** at **[Tecnofabrica]([https://skeps.com.br/](https://www.tecnofabrica.com.br/))** - Leading development teams and architecting software solutions
 - **Full Stack Developer** with expertise in front-end and back-end technologies
 
 ## Education
