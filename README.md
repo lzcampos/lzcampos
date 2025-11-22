@@ -1,10 +1,10 @@
 # Hi, I'm Luiz Damasceno 👋
 
 ## About Me
-Software Engineer with experience leading technical teams and developing web applications. Currently working as a Senior Software Engineer at [Tecnofabrica]([https://www.tecnofabrica.com.br/](https://www.tecnofabrica.com.br/)), focusing on delivering high-quality software solutions.
+Software Engineer with experience leading technical teams and developing web applications. Currently working as a Senior Software Engineer at  **[Squid](https://app.squidit.com.br/)**, focusing on delivering high-quality software solutions.
 
 ## Experience
-- **Senior Software Engineer** at **[Tecnofabrica]([https://www.tecnofabrica.com.br/](https://www.tecnofabrica.com.br/))** - Delivering great code and architecting software solutions
+- **Senior Software Engineer** at **[Squid](https://app.squidit.com.br/)** - Delivering great code and architecting software solutions
 - **Full Stack Developer** with expertise in front-end and back-end technologies
 
 ## Education
